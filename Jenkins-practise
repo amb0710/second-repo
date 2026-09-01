@@ -3,3 +3,4 @@ automating the flow now.
 created new webhook in github
 lets see how the build is happening in jenkins
 every minute build 
+schedule build
